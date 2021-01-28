@@ -1,2 +1,2 @@
 # hello_world_bash
-Hello World program to get projects started
+Hello World bash to get projects started
